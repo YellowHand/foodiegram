@@ -87,7 +87,8 @@ frontend/node_modules
 /node_modules
 /.pnp
 .pnp.js
-
+backend/foodiegram_api/images
+backend/foodiegram_api/db.sqlite3
 # testing
 /coverage
 
